@@ -1,0 +1,41 @@
+
+<DOCTYPE html oncontextmenu="return false">
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="My Website">
+<meta name="keywords" content="Website,Portfoloio">
+<meta name="author" content="Sybe">
+<meta http-equiv="refresh" content="30">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SYBER VERSE</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<h1>WELCOME TO SYBER VERSE</h1>
+<body>
+<div id="particles-js"></div>
+<div class="mains">
+<a href="https://syberrealm.blogspot.com/p/project-source-code-links.html" target="_blank"><button class="button button1">Projects</button></a>	
+</div>
+<h2>Social Handles<h2>
+<div class="socials">
+<a href="https://instagram.com/syber_verse" target=_blank><i class="fa-brands fa-instagram"></i></a>
+<a href="https://youtube.com/@Sybe2022" target=_blank><i class="fa-brands fa-youtube"></i></a>
+</div>
+<div class="main">
+<h2>About Me</h2>
+<p1>THIS IS SAKSHAM .
+<br/>
+I M COMPUTER ADDICT AND PROGRAMMER .
+<br/>
+I LOVE TO EXPLORE AND GET TO KNOW ABOUT COMPUTERS .
+<br/>
+I HAVE LITTLE KNOWLEDGE OF PROGRAMMING LANGUAGES LIKE HTML , PYTHON , Etc .
+<br/> 
+</p1> 
+<img src="img.gif" alt="img">
+</div>
+<script src="particles.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
