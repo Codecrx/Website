@@ -3,33 +3,49 @@
 <meta charset="UTF-8">
 <meta name="description" content="My Website">
 <meta name="keywords" content="Website,Portfoloio">
-<meta name="author" content="Sybe">
+<div class="content" id="">
+    <div class="social">
+      <a href="https://discord.gg/RqqH2asP" id="discord" target="_blank" class="icon">
+        <i class="fab fa-discord"></i>
+      </a>
+      <a href="" id="email" target="_blank" class="icon">
+        <i class="far fa-ehttps://mail.google.com/mail/u/2/"></i>
+      </a>
+      <a href="tel:+917849834918" id="call" target="_blank" class="icon">
+        <i class="fa fa-phone"></i>
+      </a>
+      <a href="https://www.instagram.com/python_codex._/" id="instagram" target="_blank" class="icon">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="https://github.com/Codecrx" id="github" target="_blank" class="icon">
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="text">
+      <h1 class="shine head" style="font-size: 65px">Shobhit</h1>
 <meta http-equiv="refresh" content="30">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>SYBER VERSE</title>
+<title>CodecrX</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 <link rel="stylesheet" href="style.css">
 </head>
-<h1>WELCOME TO SYBER VERSE</h1>
+<h1>WELCOME TO THE CODEC</h1>
 <body>
 <div id="particles-js"></div>
 <div class="mains">
-<a href="https://syberrealm.blogspot.com/p/project-source-code-links.html" target="_blank"><button class="button button1">Projects</button></a>	
+<a href="" target="_blank"><button class="button button1">Projects</button></a>	
 </div>
 <h2>Social Handles<h2>
 <div class="socials">
-<a href="https://instagram.com/syber_verse" target=_blank><i class="fa-brands fa-instagram"></i></a>
-<a href="https://youtube.com/@Sybe2022" target=_blank><i class="fa-brands fa-youtube"></i></a>
+<a href="https://instagram.com/python_codex._" target=_blank><i class="fa-brands fa-instagram"></i></a>
 </div>
 <div class="main">
 <h2>About Me</h2>
-<p1>THIS IS SAKSHAM .
+<p1>THIS IS CoderX.
 <br/>
-I M COMPUTER ADDICT AND PROGRAMMER .
+I love to try to code and learn as much as possible.
 <br/>
-I LOVE TO EXPLORE AND GET TO KNOW ABOUT COMPUTERS .
-<br/>
-I HAVE LITTLE KNOWLEDGE OF PROGRAMMING LANGUAGES LIKE HTML , PYTHON , Etc .
+I Have Little Knowledge Of Programming Languages Like Python.
 <br/> 
 </p1> 
 <img src="img.gif" alt="img">
