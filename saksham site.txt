@@ -22,7 +22,7 @@
       </a>
     </div>
     <div class="text">
-      <h1 class="shine head" style="font-size: 65px">Shobhit</h1>
+      <h1 class="shine head" style="font-size: 65px">Gauraang</h1>
 <meta http-equiv="refresh" content="30">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CodecrX</title>
